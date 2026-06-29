@@ -138,7 +138,7 @@ I would like to express my sincere gratitude to Sir Fahad Quereshi for his inval
  👨‍💻 Author
 
 Waqas Ahmad – 4th Semester Student  
-[GitHub Profile](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub Profile]() | [LinkedIn](www.linkedin.com/in/waqas-ahmad-578727286)
 
 ---
 
