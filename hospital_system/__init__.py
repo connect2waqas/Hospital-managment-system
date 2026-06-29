@@ -1,0 +1,1 @@
+"""Hospital Management System - A comprehensive OOP-based system with SQLite backend."""
