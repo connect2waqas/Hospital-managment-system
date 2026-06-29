@@ -134,7 +134,7 @@ All these steps are interconnected via foreign keys in the database.
 I would like to express my sincere gratitude to Sir Fahad Quereshi for his invaluable guidance and support throughout this project. His emphasis on clean OOP design and best practices made this project a great learning experience.
  👨‍💻 Author
 Waqas Ahmad – 4th Semester Student  
-[GitHub Profile](https://github.com/connect2waqas) | [LinkedIn](www.linkedin.com/in/waqas-ahmad-578727286)
+[GitHub Profile](https://github.com/connect2waqas) | [LinkedIn](https://www.linkedin.com/in/waqas-ahmad-578727286/?locale=en)
 
 📄 License
 This project is open‑source and available free. Feel free to use, modify, and distribute it.
