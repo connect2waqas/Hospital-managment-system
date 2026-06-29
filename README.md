@@ -129,21 +129,14 @@ Select an option and follow the prompts. Every action is validated with clear er
 5. Assign a room to the patient.
 6. Generate a bill with items.
 7. Mark the bill as paid.
-
 All these steps are interconnected via foreign keys in the database.
-
 🙏 Acknowledgements
 I would like to express my sincere gratitude to Sir Fahad Quereshi for his invaluable guidance and support throughout this project. His emphasis on clean OOP design and best practices made this project a great learning experience.
-
  👨‍💻 Author
-
 Waqas Ahmad – 4th Semester Student  
 [GitHub Profile]() | [LinkedIn](www.linkedin.com/in/waqas-ahmad-578727286)
 
----
-
-## 📄 License
-
+📄 License
 This project is open‑source and available free. Feel free to use, modify, and distribute it.
 ## ⭐ Show Your Support
 If you found this project helpful, please give it a ⭐ on GitHub!
